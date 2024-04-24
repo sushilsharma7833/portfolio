@@ -1,2 +1,5 @@
-# portfolio
-This is my portfolio website make using Reactjs
+# React-Portfolio made with love and with beautiful UI.
+
+Live Preview at :
+
+### Hi there 👋 I am Sushil, a full stack web developer. I love to build new things that excites me a lot.
